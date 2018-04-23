@@ -1,6 +1,6 @@
         <hr>
         <footer class="footer">
-          <p>&copy; Simu&Nicolas AG</p>
+          <p>&copy; Placeholder-Name-der-Gruppe</p>
         </footer>
     </div>
 
