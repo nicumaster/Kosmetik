@@ -1,0 +1,5 @@
+echo "<form class='login_form' method='post' action='/user/doLogin'>";
+            echo "<input onblur='this.placeholder = \"username\"' onfocus='this.placeholder= \" \"' class='nav_login_inputs' placeholder='username' type='text' name='username'>";
+            echo "<input onblur='this.placeholder = \"password\"' onfocus='this.placeholder= \" \"' class='nav_login_inputs' placeholder='password' type='password' name='password'>";
+            echo "<input type='submit' class='login_button_header' value='login'>";
+            echo "</form>";
